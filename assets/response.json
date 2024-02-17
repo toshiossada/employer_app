@@ -1,0 +1,101 @@
+{
+    "jobs": [
+        {
+            "name": "Facily",
+            "desc": "A plataforma de social commerce – que permite que os usuários se unam, façam grandes pedidos e obtenham descontos – recebeu US$ 135 milhões numa extensão de sua rodada Série D, liderada pela Goodwater e Propus.",
+            "img": "https://web.faci.ly/wp-content/uploads/2023/05/logo-facily.png",
+            "value": "R$ 6.000,00 - R$8.500",
+            "title": "Flutter Jr.",
+            "location": "Campinas/SP",
+            "tags": [
+                "REMOTE",
+                "PARTTIME"
+            ]
+        },
+        {
+            "name": "99",
+            "desc": "A startup de aplicativos de transporte particular foi a primeira brasileira a se tornar unicórnio. Na época, a empresa recebeu um aporte de US$ 100 milhões do fundo japonês SoftBank e foi avaliada em mais de US$ 1 bilhão. Se tornou um unicórnio em janeiro de 2018.",
+            "img": "https://99app.com/wp-content/uploads/2021/05/99_icon_pax_ios.png",
+            "value": "R$ 2.000,00 - R$3.000",
+            "title": "Flutter internship",
+            "location": "São Paulo/SP",
+            "tags": [
+                "Location",
+                "FULLTIME"
+            ]
+        },
+        {
+            "name": "Pag Seguro",
+            "desc": "Um dos unicórnios mais controversos, não por não ter atingido o valuation de US$ 1 bilhão, mas sim pela discussão se é ou não uma startup. A PagSeguro atua como intermediador de pagamentos em vários locais, on-line e por meio de pagamentos por cartão. É uma empresa parte da UOL. Por isso, alguns não a descrevem como startup.",
+            "img": "https://acq-static-pages.pagseguro.com.br/static-pages/website/website-home-pages/_next/static/media/social_share_4096x4096.e09964d6.jpg",
+            "value": "R$ 9.000,00 - R$11.000",
+            "title": "Flutter Pl.",
+            "location": "São Paulo/SP",
+            "tags": [
+                "Location ",
+                "FULLTIME"
+            ]
+        },
+        {
+            "name": "Nubank",
+            "desc": "Tendo uma brasileira entre os fundadores, o Nubank chegou a marca de unicórnio em 2018, após participar de uma rodada de, investimentos. A fintech chegou ao valor de US$ 1 bilhão em 2018 e se tornou o terceiro unicórnio brasileiro.",
+            "img": "https://t.ctcdn.com.br/DIEw0gGtQl_GNhWXJwgrRmuGpIk=/i624750.png",
+            "value": "R$ 19.000,00 - R$20.000",
+            "title": "Flutter Sr",
+            "location": "Rio de Janeiro/RJ",
+            "tags": [
+                "LOCATION",
+                "REMOTE",
+                "FULLTIME"
+            ]
+        },
+        {
+            "name": "Ifood",
+            "desc": "O iFood recebeu um investimento de US$ 500 milhões durante um aporte liderado pela Movile, Naspers e Innova Capital. Os fundos de capital de risco investiram US$ 400 milhões na Movile, empresa que comprou o iFood em 2014 e que completou a quantia do aporte. Dessa forma, a empresa atingiu a marca de US$ 1 bilhão e se tornou um dos unicórnios brasileiros em novembro de 2018.",
+            "img": "https://static.ifood.com.br/webapp/images/logo-smile-512x512.png",
+            "value": "R$ 20.000,00 - R$25.000",
+            "title": "Flutter Sr.",
+            "location": "Caxias do Sul/RS",
+            "tags": [
+                "REMOTE",
+                "FULLTIME"
+            ]
+        },
+        {
+            "name": "Stone",
+            "desc": "Fintech que atua como processadora de pagamentos. Levantou US$ 1,5 bilhão na Nasdaq, atingindo um valor de US$ 9 bilhões.",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Stone_pagamentos.png/1280px-Stone_pagamentos.png",
+            "value": "R$ 16.000,00 - R$20.000",
+            "title": "Flutter Sr.",
+            "location": "São Paulo/SP",
+            "tags": [
+                "REMOTE",
+                "PARTTIME"
+            ]
+        },
+        {
+            "name": "Quinto Andar",
+            "desc": "A nona startup a entrar na lista de unicórnios foi a Quinto Andar. A empresa de tecnologia, especializada em aluguel de imóveis, foi avaliada em US$ 1 bilhão após participar de uma rodada de investimentos de US$ 250 milhões. Os aportes foram liderados pelo fundo Dragoneer, que já investiu no Uber e Nubank, e pelo SoftBank, grupo japonês que investiu no Creditas, Rappi, Loggi e Gympass.",
+            "img": "https://www.abcdacomunicacao.com.br/wp-content/uploads/logo_quintoandar.jpg",
+            "value": "R$ 16.000,00 - R$18.000",
+            "title": "Flutter Pl.",
+            "location": "Curitiba/PR",
+            "tags": [
+                "REMOTE",
+                "FULLTIME"
+            ]
+        },
+        {
+            "name": "CloudWalk",
+            "desc": "A startup de pagamentos atingiu o valor de mercado de US$ 1 bilhão após receber investimento de US$ 150 milhões, principalmente do fundo americano Coatue.",
+            "img": "https://cloudwalk.io/cloudwalk-logo.jpg",
+            "value": "R$ 10.000,00 - R$15.000",
+            "title": "Flutter Sr.",
+            "location": "Florianopolis/SC",
+            "tags": [
+                "REMOTE",
+                "FULLTIME"
+            ]
+        }
+    ]
+}
